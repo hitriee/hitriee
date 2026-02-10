@@ -4,9 +4,9 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2022.07 ~ 2022.08 (7주)                                      | 2022.08 ~ 2022.10 (7주)                                      | 2022.10 ~ 2022.11 (6주)                                      | 2023.01 ~ 2023.08 (28주)                                     | 2023.01 ~ 2023.10 (43주)                                     |
 | 태블릿과 웹에서 사용 가능한 공교육 보조 플랫폼 (교사용/학생용) | NFT를 이용한 멸종 위기 동물 보호 관심 재고 및 기부 독려 사이트 (웹) | 하고 싶은 이야기를 풍선에 담아 날리는 위치 기반 익명 커뮤니티 (웹앱) | 원하는 위치 주변의 화장실을 표시해주는 서비스 (앱)           | 빙고판에 입력한 목표를 달성해가는 서비스 (앱)                    |
-| [Repository 바로가기](https://github.com/hitriee/EduColab)   | [Repository 바로가기](https://github.com/hitriee/Enimal)     | [Repository 바로가기](https://github.com/hitriee/fairytail)  | [Repository 바로가기](https://github.com/4ilet/Find_Toilet)  <br> [~~Play Store 바로가기~~](https://play.google.com/store/apps/details?id=com.find_toilet.map.android&hl=en-KR) | [Repository 바로가기](https://github.com/chaewool/Bin-goT) <br/> [Play Store 바로가기](https://play.google.com/store/apps/details?id=xyz.bingot.android&pcampaignid=web_share) |
+| [Repository 바로가기](https://github.com/hitriee/EduColab)   | [Repository 바로가기](https://github.com/hitriee/Enimal)     | [Repository 바로가기](https://github.com/hitriee/fairytail)  | [Repository 바로가기](https://github.com/4ilet/Find_Toilet)  <br> [~~Play Store 바로가기~~](https://play.google.com/store/apps/details?id=com.find_toilet.map.android&hl=en-KR) | [Repository 바로가기](https://github.com/chaewool/Bin-goT) <br/> [~~Play Store 바로가기~~](https://play.google.com/store/apps/details?id=xyz.bingot.android&pcampaignid=web_share) |
 
-- 화장실을 찾아서는 현재 서비스가 종료된 상태입니다!
+- 화장실을 찾아서, Bin:goT은 현재 서비스가 종료된 상태입니다!
 <br>
 
 ## ⚙️ 기술 스킬
