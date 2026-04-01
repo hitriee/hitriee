@@ -4,7 +4,7 @@
 > **프로젝트를 개선하고, 동료와 협력하고, 사용자에게 관심을 기울이는 이런 행동으로 다정함을 실현하고 있습니다.**  <br><br>
 > 문제를 발견하고 다양한 방식을 통해 해결하는 역량이 있습니다. <br>
 > 묵묵히 맡은 일에 최선을 다하고 협업을 중요시하는 모습으로 팀 분위기를 긍정적으로 바꾸기도 했습니다. <br>
-> 현재 AI 툴을 효과적으로 활용하는 방법을 익히려 하고 있습니다.
+> 다양한 도전을 통해 성장해나가는 중이고, 현재 AI 툴을 효과적으로 활용하는 방법을 익히려 하고 있습니다.
 
 
 <br>
@@ -49,7 +49,7 @@
 | **[EduColab (에듀콜라)](https://github.com/hitriee/EduColab)** | 태블릿과 웹에서 사용 가능한 공교육 보조 플랫폼 (교사용/학생용 웹) | Vue.js, Javascript |
 
 
-<br>
+<br><br>
 
 ## 🛠 쌓아온 기술
 ### 프론트엔드
@@ -57,43 +57,54 @@
 ![Next.js](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>
-<br> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/> <br>
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=Web3.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white"/> <br>
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> <br>
-<img src="https://img.shields.io/badge/FCM (Firebase Cloud Messaging)-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=white"/>
+![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=Sass&logoColor=white) <br>
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white) <br>
+![web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=Web3.js&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white) <br>
+![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+<img src="https://img.shields.io/badge/FCM (Firebase Cloud Messaging)-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
+![three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=white)
 
 ### 백엔드
-![Django](https://img.shields.io/badge/DJango-092E20?style=for-the-badge&logo=DJango&logoColor=white")
+![Django](https://img.shields.io/badge/DJango-092E20?style=for-the-badge&logo=DJango&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 
 ### 알고리즘
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 
 ### 크로스 플랫폼
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white")
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ### 기타
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira Software-0052CC?style=for-the-badge&logo=Jira Software&logoColor=white"/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white)
 
-<br>
+<br><br>
 
 ## 활동 사항
+
 ### 알고리즘 스터디, 알고리즘 풀이
-[알고리즘 스터디 Repository](https://github.com/2023-ssafy-study/Problem-Solving) / [이전 알고리즘 스터디 Repository](https://github.com/yeolsim2hajo/Team_hard) <br>
+
+[SSAFY 알고리즘 스터디 Repository](https://github.com/yeolsim2hajo/Team_hard) / [SSAFY 알고리즘 스터디 Notion](https://ilwol.notion.site/e27e93e1b6bf4143b719a349bc89beb5?source=copy_link) <br><br>
+[알고리즘 스터디 Repository](https://github.com/2023-ssafy-study/Problem-Solving) <br>
 
 [개인 문제 풀이 Repository](https://github.com/hitriee/problem_solving) / [코드 트리 문제 풀이 Repository](https://github.com/hitriee/codetree-TILs) <br><br>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pubhan35" /> <img src="http://mazandi.herokuapp.com/api?handle=pubhan35&theme=warm"/>  <br><br>
 
+### 기타
+
+[기술 블로그](https://ilwol-developer.tistory.com)
+
+[자체 제작 문제](https://drive.google.com/file/d/1Hie1sPPe2Qhv9Opt5HKD6VLZy3tHFwci/view?usp=sharing)
+
+[포팅 메뉴얼 - (동하책) 알림 기능](https://drive.google.com/file/d/1g0LrNnJ_RyFnrwc9gaoFRrxF576Oy2L-/view?usp=sharing)
+
+<br><br>
 
 ## 수정 기록
 
@@ -103,4 +114,4 @@
 | :--- | :--- |
 | 2026.03.26 | 전체적인 구조 변경 (AI 활용), 경력사항 작성, 소개글 작성 |
 | 2026.03.26 | 오류 사항 수정 |
-
+| 2026.03.26 | 활동 사항 추가, 기술 이미지 코드 수정, 소개글 수정 |
